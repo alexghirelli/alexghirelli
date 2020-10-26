@@ -5,6 +5,4 @@
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/alexghirelli/)
 [![info@alexghirelli.it](https://img.shields.io/static/v1?label=info@alexghirelli.it&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@alexghirelli.it)
   
-  
-👨‍💻 26 years old  
-👨‍💻 Senior Front-end Engineer @ YOOX NET-A-PORTER Group
+👨‍💻 __Senior Front-end Engineer @ YOOX NET-A-PORTER GROUP__
