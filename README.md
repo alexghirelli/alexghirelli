@@ -10,13 +10,15 @@ Get in touch with me:
 [![info@alexghirelli.it](https://img.shields.io/static/v1?label=info@alexghirelli.it&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@alexghirelli.it)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C985%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-645%20Thousand%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 786 Contributions in the Year 2022
+> 🏆 790 Contributions in the Year 2022
  > 
 > 📦 184.4 kB Used in GitHub's Storage 
  > 
@@ -26,6 +28,47 @@ Get in touch with me:
  > 
 > 🔑 17 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    143 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.46% 
+🌆 Daytime    323 commits    ███████████░░░░░░░░░░░░░░   43.95% 
+🌃 Evening    173 commits    ██████░░░░░░░░░░░░░░░░░░░   23.54% 
+🌙 Night      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.06%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       166 commits    █████░░░░░░░░░░░░░░░░░░░░   22.59% 
+Tuesday      124 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.87% 
+Wednesday    117 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.92% 
+Thursday     143 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.46% 
+Friday       106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
+Saturday     49 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
+Sunday       30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.08%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+PHP                      13 hrs 48 mins      ████████████████░░░░░░░░░   63.69% 
+Other                    4 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   22.9% 
+YAML                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
+Docker                   42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+
+🔥 Editors: 
+VS Code                  16 hrs 44 mins      ███████████████████░░░░░░   77.25% 
+Google Calendar          4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   22.75%
+
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -38,10 +81,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/alexghirelli/alexghirelli/main/charts/bar_graph.png) 
-
-
- Last Updated on 26/09/2022 15:03:22 UTC
+ Last Updated on 26/09/2022 15:25:10 UTC
 <!--END_SECTION:waka-->
