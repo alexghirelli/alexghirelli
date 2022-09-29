@@ -10,17 +10,17 @@ Get in touch with me:
 [![info@alexghirelli.it](https://img.shields.io/static/v1?label=info@alexghirelli.it&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@alexghirelli.it)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C006%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C012%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-96-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-645%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    144 commits    █████░░░░░░░░░░░░░░░░░░░░   19.54% 
-🌆 Daytime    324 commits    ███████████░░░░░░░░░░░░░░   43.96% 
+🌞 Morning    143 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.4% 
+🌆 Daytime    325 commits    ███████████░░░░░░░░░░░░░░   44.1% 
 🌃 Evening    173 commits    █████░░░░░░░░░░░░░░░░░░░░   23.47% 
 🌙 Night      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03%
 
@@ -29,9 +29,9 @@ Get in touch with me:
 
 ```text
 Monday       166 commits    █████░░░░░░░░░░░░░░░░░░░░   22.52% 
-Tuesday      132 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
+Tuesday      130 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.64% 
 Wednesday    115 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
-Thursday     138 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.72% 
+Thursday     140 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.0% 
 Friday       107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
 Saturday     49 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.65% 
 Sunday       30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.07%
@@ -70,5 +70,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2022 10:23:34 UTC
+ Last Updated on 29/09/2022 18:58:10 UTC
 <!--END_SECTION:waka-->
