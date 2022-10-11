@@ -10,17 +10,17 @@ Get in touch with me:
 [![info@alexghirelli.it](https://img.shields.io/static/v1?label=info@alexghirelli.it&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@alexghirelli.it)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C036%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C026%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-40-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-789%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    145 commits    █████░░░░░░░░░░░░░░░░░░░░   19.62% 
-🌆 Daytime    327 commits    ███████████░░░░░░░░░░░░░░   44.25% 
+🌞 Morning    148 commits    █████░░░░░░░░░░░░░░░░░░░░   20.03% 
+🌆 Daytime    324 commits    ███████████░░░░░░░░░░░░░░   43.84% 
 🌃 Evening    172 commits    █████░░░░░░░░░░░░░░░░░░░░   23.27% 
 🌙 Night      95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86%
 
@@ -28,10 +28,10 @@ Get in touch with me:
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       165 commits    █████░░░░░░░░░░░░░░░░░░░░   22.33% 
-Tuesday      130 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.59% 
-Wednesday    106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.34% 
-Thursday     145 commits    █████░░░░░░░░░░░░░░░░░░░░   19.62% 
+Monday       170 commits    █████░░░░░░░░░░░░░░░░░░░░   23.0% 
+Tuesday      132 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
+Wednesday    100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.53% 
+Thursday     144 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.49% 
 Friday       117 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.83% 
 Saturday     46 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.22% 
 Sunday       30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.06%
@@ -71,5 +71,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/10/2022 19:04:17 UTC
+ Last Updated on 11/10/2022 18:57:15 UTC
 <!--END_SECTION:waka-->
