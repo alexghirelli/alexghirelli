@@ -10,9 +10,9 @@ Get in touch with me:
 [![info@alexghirelli.it](https://img.shields.io/static/v1?label=info@alexghirelli.it&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@alexghirelli.it)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C041%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C053%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-790%20Thousand%20lines%20of%20code-blue)
 
@@ -45,16 +45,16 @@ Sunday       30 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-PHP                      14 hrs 54 mins      ███████████████████░░░░░░   76.97% 
-TypeScript               2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.86% 
-Other                    1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.46% 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.15% 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
+PHP                      14 hrs 42 mins      ████████████░░░░░░░░░░░░░   48.51% 
+Other                    13 hrs 28 mins      ███████████░░░░░░░░░░░░░░   44.45% 
+TypeScript               1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.06% 
+JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64% 
+SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
 
 🔥 Editors: 
-VS Code                  17 hrs 50 mins      ███████████████████████░░   92.05% 
-Google Calendar          1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   7.05% 
-DBeaver                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+VS Code                  16 hrs 40 mins      █████████████░░░░░░░░░░░░   55.04% 
+Google Calendar          13 hrs 26 mins      ███████████░░░░░░░░░░░░░░   44.38% 
+DBeaver                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
 
 ```
 
@@ -71,5 +71,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2022 18:56:10 UTC
+ Last Updated on 15/10/2022 18:54:47 UTC
 <!--END_SECTION:waka-->
