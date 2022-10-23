@@ -45,10 +45,10 @@ Sunday       30 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Google Calendar          1 hr                █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -65,5 +65,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2022 18:55:47 UTC
+ Last Updated on 23/10/2022 18:55:41 UTC
 <!--END_SECTION:waka-->
