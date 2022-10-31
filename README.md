@@ -10,7 +10,7 @@ Get in touch with me:
 [![info@alexghirelli.it](https://img.shields.io/static/v1?label=info@alexghirelli.it&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@alexghirelli.it)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C078%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C083%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,10 +45,10 @@ Sunday       30 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    24 hrs 5 mins       █████████████████████████   100.0%
+Other                    17 hrs 20 mins      █████████████████████████   100.0%
 
 🔥 Editors: 
-Google Calendar          24 hrs 5 mins       █████████████████████████   100.0%
+Google Calendar          17 hrs 20 mins      █████████████████████████   100.0%
 
 ```
 
@@ -65,5 +65,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2022 18:53:17 UTC
+ Last Updated on 31/10/2022 18:54:00 UTC
 <!--END_SECTION:waka-->
