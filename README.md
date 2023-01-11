@@ -10,9 +10,9 @@ Get in touch with me:
 [![info@alexghirelli.it](https://img.shields.io/static/v1?label=info@alexghirelli.it&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@alexghirelli.it)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C252%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C254%20hrs%2028%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-813%20Thousand%20lines%20of%20code-blue)
 
@@ -45,14 +45,15 @@ Sunday       28 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-PHP                      19 hrs 39 mins      ████████████████████████░   99.42% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
-GraphQL                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+PHP                      14 hrs 35 mins      ███████████████████████░░   93.38% 
+Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   6.43% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-VS Code                  19 hrs 46 mins      █████████████████████████   100.0%
+VS Code                  14 hrs 37 mins      ███████████████████████░░   93.6% 
+Google Calendar          1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   6.4%
 
 ```
 
@@ -69,5 +70,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2023 18:44:02 UTC
+ Last Updated on 11/01/2023 18:44:49 UTC
 <!--END_SECTION:waka-->
