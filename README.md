@@ -10,18 +10,18 @@ Get in touch with me:
 [![info@alexghirelli.it](https://img.shields.io/static/v1?label=info@alexghirelli.it&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@alexghirelli.it)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C300%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C301%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-813%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-812%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    110 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
-🌆 Daytime    258 commits    ██████████░░░░░░░░░░░░░░░   40.44% 
-🌃 Evening    175 commits    ██████░░░░░░░░░░░░░░░░░░░   27.43% 
+🌞 Morning    112 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.55% 
+🌆 Daytime    257 commits    ██████████░░░░░░░░░░░░░░░   40.28% 
+🌃 Evening    174 commits    ██████░░░░░░░░░░░░░░░░░░░   27.27% 
 🌙 Night      95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.89%
 
 ```
@@ -30,8 +30,8 @@ Get in touch with me:
 ```text
 Monday       144 commits    █████░░░░░░░░░░░░░░░░░░░░   22.57% 
 Tuesday      109 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.08% 
-Wednesday    100 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
-Thursday     120 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.81% 
+Wednesday    102 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.99% 
+Thursday     118 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
 Friday       92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
 Saturday     46 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.21% 
 Sunday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.23%
@@ -70,5 +70,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/01/2023 18:42:15 UTC
+ Last Updated on 25/01/2023 18:39:00 UTC
 <!--END_SECTION:waka-->
