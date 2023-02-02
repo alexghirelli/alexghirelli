@@ -10,9 +10,9 @@ Get in touch with me:
 [![info@alexghirelli.it](https://img.shields.io/static/v1?label=info@alexghirelli.it&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@alexghirelli.it)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C307%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C311%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-812%20Thousand%20lines%20of%20code-blue)
 
@@ -45,15 +45,15 @@ Sunday       27 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-PHP                      2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   36.86% 
-Other                    2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   30.93% 
-JavaScript               1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.66% 
-JSON                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.88% 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.59%
+Other                    4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.88% 
+PHP                      3 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   41.9% 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
+JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.61% 
+YAML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.4%
 
 🔥 Editors: 
-VS Code                  4 hrs 38 mins       █████████████████░░░░░░░░   69.69% 
-Google Calendar          2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   30.31%
+VS Code                  4 hrs 57 mins       █████████████░░░░░░░░░░░░   55.12% 
+Google Calendar          4 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.88%
 
 ```
 
@@ -70,5 +70,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2023 18:41:11 UTC
+ Last Updated on 02/02/2023 18:41:13 UTC
 <!--END_SECTION:waka-->
