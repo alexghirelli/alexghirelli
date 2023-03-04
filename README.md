@@ -10,9 +10,9 @@ Get in touch with me:
 [![info@alexghirelli.it](https://img.shields.io/static/v1?label=info@alexghirelli.it&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@alexghirelli.it)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C359%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C363%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.6%20million%20lines%20of%20code-blue)
 
@@ -43,15 +43,15 @@ Sunday                   66 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    7 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.23 % 
-TypeScript               4 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-YAML                     3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-JSON                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Other                    9 hrs 6 mins        ████████████████░░░░░░░░░   62.91 % 
+YAML                     2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
+TypeScript               1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Docker                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 43 mins       ██████████████░░░░░░░░░░░   57.79 % 
-Google Calendar          7 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.21 % 
+Google Calendar          9 hrs 6 mins        ████████████████░░░░░░░░░   62.85 % 
+VS Code                  5 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   37.15 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -67,5 +67,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/03/2023 18:37:37 UTC
+ Last Updated on 04/03/2023 18:35:35 UTC
 <!--END_SECTION:waka-->
