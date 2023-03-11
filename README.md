@@ -10,11 +10,11 @@ Get in touch with me:
 [![info@alexghirelli.it](https://img.shields.io/static/v1?label=info@alexghirelli.it&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@alexghirelli.it)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C367%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C368%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.4%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -43,15 +43,15 @@ Sunday                   66 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    3 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.09 % 
-TypeScript               2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
-Python                   1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-YAML                     1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Docker                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+TypeScript               2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   40.91 % 
+Python                   1 hr 57 mins        █████████░░░░░░░░░░░░░░░░   35.56 % 
+Other                    53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+YAML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 42 mins       ████████████████░░░░░░░░░   64.96 % 
-Google Calendar          3 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.04 % 
+VS Code                  4 hrs 36 mins       █████████████████████░░░░   83.92 % 
+Google Calendar          53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -67,5 +67,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/03/2023 18:36:16 UTC
+ Last Updated on 11/03/2023 18:33:56 UTC
 <!--END_SECTION:waka-->
