@@ -10,7 +10,7 @@ Get in touch with me:
 [![info@alexghirelli.it](https://img.shields.io/static/v1?label=info@alexghirelli.it&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@alexghirelli.it)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C440%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C441%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,14 +43,14 @@ Sunday                   381 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-PHP                      7 hrs 35 mins       ███████████████████████░░   90.44 % 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-XML                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+PHP                      46 mins             ████████████████░░░░░░░░░   62.39 % 
+Markdown                 16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+JSON                     8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -66,5 +66,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/04/2023 18:37:18 UTC
+ Last Updated on 25/04/2023 18:37:31 UTC
 <!--END_SECTION:waka-->
