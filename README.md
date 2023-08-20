@@ -10,7 +10,7 @@ Get in touch with me:
 [![info@alexghirelli.it](https://img.shields.io/static/v1?label=info@alexghirelli.it&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@alexghirelli.it)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C526%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C528%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -43,10 +43,10 @@ Sunday                   408 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 55 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Google Calendar          1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,5 +62,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2023 18:41:37 UTC
+ Last Updated on 20/08/2023 18:41:53 UTC
 <!--END_SECTION:waka-->
