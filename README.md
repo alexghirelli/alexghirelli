@@ -10,7 +10,7 @@ Get in touch with me:
 [![info@alexghirelli.it](https://img.shields.io/static/v1?label=info@alexghirelli.it&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@alexghirelli.it)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C528%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C530%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -43,10 +43,15 @@ Sunday                   408 commits         ░░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    1 hr 55 mins        █████████████████████████   100.00 % 
+Other                    1 hr 55 mins        █████████████░░░░░░░░░░░░   50.84 % 
+Python                   1 hr 33 mins        ██████████░░░░░░░░░░░░░░░   41.17 % 
+TypeScript               14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Google Calendar          1 hr 55 mins        █████████████████████████   100.00 % 
+Google Calendar          1 hr 55 mins        █████████████░░░░░░░░░░░░   50.84 % 
+VS Code                  1 hr 51 mins        ████████████░░░░░░░░░░░░░   49.16 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,5 +67,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2023 18:41:53 UTC
+ Last Updated on 21/08/2023 18:40:49 UTC
 <!--END_SECTION:waka-->
