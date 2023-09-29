@@ -7,7 +7,7 @@ Get in touch with me:
 [![1gh.dev](https://img.shields.io/static/v1?label=1gh.dev&message=%20&color=red&logo=&style=flat-square&logoColor=white)](https://www.1gh.dev/)
 [![Linkedin](https://img.shields.io/static/v1?label=Linkedin&message=%20&color=blue&logo=Linkedin&style=flat-square&logoColor=white)](https://linkedin.com/in/alexghirelli)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=blue&logo=Twitter&style=flat-square&logoColor=white)](https://twitter.com/alexGhirelli)
-[![info@alexghirelli.it](https://img.shields.io/static/v1?label=info@alexghirelli.it&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:info@alexghirelli.it)
+[![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%2C569%20hrs%2055%20mins-blue)
