@@ -10,9 +10,9 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C930%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C943%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.6%20million%20lines%20of%20code-blue)
 
@@ -43,15 +43,15 @@ Sunday                   372 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    3 hrs 50 mins       ███████████████░░░░░░░░░░   58.16 % 
-TypeScript               1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-JSON                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    16 hrs 35 mins      ████████████████████████░   94.18 % 
+JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Google Calendar          3 hrs 50 mins       ███████████████░░░░░░░░░░   58.10 % 
-VS Code                  2 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   41.90 % 
+Google Calendar          16 hrs 35 mins      ████████████████████████░   94.18 % 
+VS Code                  1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -67,5 +67,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2024 18:34:30 UTC
+ Last Updated on 18/05/2024 18:33:36 UTC
 <!--END_SECTION:waka-->
