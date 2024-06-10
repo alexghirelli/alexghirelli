@@ -10,7 +10,7 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C963%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C965%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,12 +43,12 @@ Sunday                   374 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    3 hrs 45 mins       ████████████████████████░   97.84 % 
-JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Other                    5 hrs 49 mins       █████████████████████████   98.60 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-Google Calendar          3 hrs 45 mins       ████████████████████████░   97.84 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Google Calendar          5 hrs 49 mins       █████████████████████████   98.60 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -64,5 +64,5 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/06/2024 18:33:32 UTC
+ Last Updated on 10/06/2024 18:35:34 UTC
 <!--END_SECTION:waka-->
