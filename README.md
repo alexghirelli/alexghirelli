@@ -10,7 +10,7 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C138%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C143%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,14 +43,14 @@ Sunday                   397 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    2 hrs 6 mins        ██████████████████░░░░░░░   70.89 % 
-TypeScript               26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-JavaScript               25 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Other                    6 hrs 56 mins       ██████████████████████░░░   89.33 % 
+JavaScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+TypeScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Google Calendar          2 hrs               █████████████████░░░░░░░░   67.23 % 
-VS Code                  58 mins             ████████░░░░░░░░░░░░░░░░░   32.77 % 
+Google Calendar          6 hrs 50 mins       ██████████████████████░░░   87.93 % 
+VS Code                  56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -66,5 +66,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2024 18:38:02 UTC
+ Last Updated on 05/10/2024 18:36:40 UTC
 <!--END_SECTION:waka-->
