@@ -10,11 +10,48 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C223%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C224%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-25.8%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1145 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+🌆 Daytime                1359 commits        ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+🌃 Evening                2120 commits        ██████████░░░░░░░░░░░░░░░   38.89 % 
+🌙 Night                  827 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   917 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Tuesday                  685 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Wednesday                715 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Thursday                 1571 commits        ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+Friday                   532 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Saturday                 633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Sunday                   398 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+Other                    7 hrs 39 mins       █████████████████████████   99.63 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+🔥 Editors: 
+Google Calendar          7 hrs 39 mins       █████████████████████████   99.63 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -29,5 +66,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/12/2024 18:39:32 UTC
+ Last Updated on 20/12/2024 18:38:37 UTC
 <!--END_SECTION:waka-->
