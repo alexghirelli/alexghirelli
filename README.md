@@ -10,9 +10,9 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C277%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C287%20hrs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.9%20million%20lines%20of%20code-blue)
 
@@ -43,15 +43,15 @@ Sunday                   393 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-TypeScript               3 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
-JavaScript               3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Other                    3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-JSON                     1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-PHP                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+PHP                      9 hrs 21 mins       ███████████░░░░░░░░░░░░░░   45.02 % 
+JavaScript               3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Other                    2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+JSON                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+TypeScript               2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 30 mins      ██████████████████████░░░   88.76 % 
-Google Calendar          1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+VS Code                  19 hrs 56 mins      ████████████████████████░   95.99 % 
+Google Calendar          50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -67,5 +67,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/02/2025 18:39:02 UTC
+ Last Updated on 28/02/2025 18:38:42 UTC
 <!--END_SECTION:waka-->
