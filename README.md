@@ -10,7 +10,7 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C290%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C292%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -43,14 +43,14 @@ Sunday                   389 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-PHP                      10 hrs 46 mins      ████████████░░░░░░░░░░░░░   48.80 % 
-JavaScript               3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Other                    2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-JSON                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-TypeScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+PHP                      10 hrs 15 mins      ███████████░░░░░░░░░░░░░░   45.55 % 
+JavaScript               3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+TypeScript               2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+Other                    2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+JSON                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  22 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -66,5 +66,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2025 18:36:47 UTC
+ Last Updated on 02/03/2025 18:37:43 UTC
 <!--END_SECTION:waka-->
