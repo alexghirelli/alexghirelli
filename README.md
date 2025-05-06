@@ -10,7 +10,7 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C382%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C390%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,10 +43,10 @@ Sunday                   370 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    8 hrs 29 mins       █████████████████████████   100.00 % 
+Other                    16 hrs 34 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          8 hrs 29 mins       █████████████████████████   100.00 % 
+Google Calendar          16 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,5 +62,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2025 18:38:36 UTC
+ Last Updated on 06/05/2025 18:39:52 UTC
 <!--END_SECTION:waka-->
