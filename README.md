@@ -10,9 +10,9 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C470%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C470%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.6%20million%20lines%20of%20code-blue)
 
@@ -43,15 +43,15 @@ Sunday                   381 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    5 hrs 32 mins       █████████████░░░░░░░░░░░░   52.98 % 
-TypeScript               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-PHP                      1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-Terraform                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Other                    5 hrs 32 mins       █████████████░░░░░░░░░░░░   52.93 % 
+TypeScript               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+PHP                      1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Terraform                30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 27 mins       ███████████████░░░░░░░░░░   61.74 % 
-Google Calendar          4 hrs               ██████████░░░░░░░░░░░░░░░   38.26 % 
+VS Code                  6 hrs 27 mins       ███████████████░░░░░░░░░░   61.78 % 
+Google Calendar          4 hrs               ██████████░░░░░░░░░░░░░░░   38.22 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -67,5 +67,5 @@ Astro                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2025 18:41:38 UTC
+ Last Updated on 18/06/2025 18:41:41 UTC
 <!--END_SECTION:waka-->
