@@ -10,11 +10,46 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C521%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C521%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.8%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1186 commits        █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+🌆 Daytime                1469 commits        ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+🌃 Evening                2170 commits        ██████████░░░░░░░░░░░░░░░   38.47 % 
+🌙 Night                  816 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   919 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Tuesday                  727 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Wednesday                803 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Thursday                 1585 commits        ███████░░░░░░░░░░░░░░░░░░   28.10 % 
+Friday                   571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Saturday                 643 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Sunday                   393 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+Other                    1 hr 3 mins         █████████████████████████   99.98 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+VS Code                  48 mins             ███████████████████░░░░░░   76.51 % 
+Google Calendar          15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -29,5 +64,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2025 18:41:53 UTC
+ Last Updated on 21/08/2025 18:40:54 UTC
 <!--END_SECTION:waka-->
