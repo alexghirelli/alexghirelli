@@ -10,7 +10,7 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C591%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C592%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -43,10 +43,10 @@ Sunday                   393 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr                █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Google Calendar          1 hr                █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,5 +62,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2025 18:44:35 UTC
+ Last Updated on 02/12/2025 18:45:02 UTC
 <!--END_SECTION:waka-->
