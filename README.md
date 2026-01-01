@@ -14,7 +14,7 @@ Get in touch with me:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.08%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -62,5 +62,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 18:43:25 UTC
+ Last Updated on 01/01/2026 18:43:43 UTC
 <!--END_SECTION:waka-->
