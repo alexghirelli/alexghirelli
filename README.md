@@ -10,9 +10,44 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C565%20hrs%2013%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.08%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1194 commits        █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+🌆 Daytime                1498 commits        ███████░░░░░░░░░░░░░░░░░░   26.21 % 
+🌃 Evening                2196 commits        ██████████░░░░░░░░░░░░░░░   38.42 % 
+🌙 Night                  828 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   927 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Tuesday                  750 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Wednesday                808 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Thursday                 1603 commits        ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+Friday                   585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Saturday                 650 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Sunday                   393 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -27,5 +62,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 18:42:18 UTC
+ Last Updated on 04/01/2026 18:42:58 UTC
 <!--END_SECTION:waka-->
