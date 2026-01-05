@@ -10,11 +10,11 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C565%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%2C565%20hrs%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.08%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.08%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -62,5 +62,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:42:58 UTC
+ Last Updated on 05/01/2026 18:44:29 UTC
 <!--END_SECTION:waka-->
