@@ -12,7 +12,7 @@ Get in touch with me:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%2C572%20hrs%2043%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.02%20million%20lines%20of%20code-blue?style=flat)
 
@@ -43,10 +43,10 @@ Sunday                   395 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    5 hrs               █████████████████████████   100.00 % 
+Other                    3 hrs               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          5 hrs               █████████████████████████   100.00 % 
+Google Calendar          3 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -62,5 +62,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2026 18:46:08 UTC
+ Last Updated on 22/01/2026 18:44:51 UTC
 <!--END_SECTION:waka-->
