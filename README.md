@@ -12,7 +12,40 @@ Get in touch with me:
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.18%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.19%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1176 commits        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+🌆 Daytime                1561 commits        ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌃 Evening                2327 commits        ██████████░░░░░░░░░░░░░░░   39.13 % 
+🌙 Night                  883 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   941 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+Tuesday                  823 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Wednesday                850 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Thursday                 1605 commits        ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+Friday                   628 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Saturday                 704 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Sunday                   396 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -27,5 +60,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 18:53:19 UTC
+ Last Updated on 18/05/2026 19:12:37 UTC
 <!--END_SECTION:waka-->
