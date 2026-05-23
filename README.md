@@ -17,15 +17,15 @@ Get in touch with me:
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               19 repos            █████████░░░░░░░░░░░░░░░░   35.19 % 
-TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+JavaScript               19 repos            █████████░░░░░░░░░░░░░░░░   34.55 % 
+TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
 
 
- Last Updated on 22/05/2026 19:12:27 UTC
+ Last Updated on 23/05/2026 18:54:48 UTC
 <!--END_SECTION:waka-->
