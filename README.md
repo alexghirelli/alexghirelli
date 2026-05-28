@@ -10,44 +10,9 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%2C643%20hrs%2013%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.22%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1178 commits        █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-🌆 Daytime                1583 commits        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-🌃 Evening                2347 commits        ██████████░░░░░░░░░░░░░░░   39.11 % 
-🌙 Night                  893 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   941 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Tuesday                  833 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Wednesday                858 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Thursday                 1611 commits        ███████░░░░░░░░░░░░░░░░░░   26.85 % 
-Friday                   649 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Saturday                 713 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Sunday                   396 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Rome
-
-💬 Programming Languages: 
-Other                    1 hr 50 mins        █████████████████████████   100.00 % 
-
-🔥 Editors: 
-Google Calendar          1 hr 50 mins        █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.24%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in JavaScript** 
 
@@ -62,5 +27,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2026 19:23:43 UTC
+ Last Updated on 28/05/2026 19:29:27 UTC
 <!--END_SECTION:waka-->
