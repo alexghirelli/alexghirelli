@@ -10,9 +10,9 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C430%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C434%20hrs%2052%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-26%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,16 +45,35 @@ Sunday                   388 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    12 hrs 50 mins      █████████████████████████   100.00 % 
+PHP                      4 hrs 26 mins       ██████████████████░░░░░░░   70.82 % 
+Other                    1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
 
 🔥 Editors: 
-Google Calendar          12 hrs 50 mins      █████████████████████████   100.00 % 
+Claude Code              4 hrs 26 mins       ██████████████████░░░░░░░   70.82 % 
+Google Calendar          1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   29.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 26 mins (70.82%)
+
+✍️ 14 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 9,559,044 Input Tokens, 70,858 Output Tokens
+
+💵 $45.02 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 36 AI Prompts
+
+Opus                     19 lines            █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 798 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -70,5 +89,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 20:13:51 UTC
+ Last Updated on 05/08/2026 20:09:31 UTC
 <!--END_SECTION:waka-->
