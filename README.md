@@ -45,39 +45,39 @@ Sunday                   388 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-PHP                      11 hrs 48 mins      ██████████████████░░░░░░░   72.00 % 
-JSON                     2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Other                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-TypeScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+PHP                      11 hrs 45 mins      █████████████████████░░░░   82.01 % 
+Other                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 12 mins       ██████████████░░░░░░░░░░░   56.10 % 
-VS Code                  6 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   38.82 % 
-Google Calendar          50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Claude Code              7 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.78 % 
+VS Code                  6 hrs 22 mins       ███████████░░░░░░░░░░░░░░   44.41 % 
+Google Calendar          50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 1 min (61.08%)
+⏱ AI Coding Time: 7 hrs 57 mins (55.48%)
 
-✍️ 1,614 lines written by AI, 208 lines written by hand (88.58% AI-written)
+✍️ 1,555 lines written by AI, 208 lines written by hand (88.2% AI-written)
 
-🔤 28,714,751 Input Tokens, 230,255 Output Tokens
+🔤 25,499,007 Input Tokens, 192,962 Output Tokens
 
-💵 $95.62 Estimated AI Cost This Week
+💵 $80.70 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 201 AI Prompts
+🧠 9 AI Sessions, 185 AI Prompts
 
-Sonnet                   1,586 lines         ████████████████████████░   95.31 % 
-Opus                     78 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Sonnet                   1,586 lines         █████████████████████████   98.82 % 
+Opus                     19 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.58% of written lines came from AI
-📄 Detailed Prompter — average 765 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 23.63% of changed lines were hand-edited
+🤖 AI-Driven — 88.2% of written lines came from AI
+📄 Detailed Prompter — average 623 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🚀 High AI Trust — 24.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,5 +93,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 19:13:15 UTC
+ Last Updated on 09/08/2026 19:16:29 UTC
 <!--END_SECTION:waka-->
