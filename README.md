@@ -10,9 +10,9 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C459%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C461%20hrs%2016%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -45,38 +45,38 @@ Sunday                   388 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-PHP                      10 hrs 12 mins      ███████████████░░░░░░░░░░   58.46 % 
-JavaScript               2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Markdown                 1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Other                    1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+PHP                      11 hrs 26 mins      ███████████████░░░░░░░░░░   60.77 % 
+JavaScript               2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Markdown                 1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Other                    1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 3 mins       ███████████████████░░░░░░   74.77 % 
-VS Code                  4 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+Claude Code              14 hrs 15 mins      ███████████████████░░░░░░   75.69 % 
+VS Code                  4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 8 mins (80.99%)
+⏱ AI Coding Time: 15 hrs 23 mins (81.68%)
 
-✍️ 1,582 lines written by AI, 220 lines written by hand (87.79% AI-written)
+✍️ 1,807 lines written by AI, 222 lines written by hand (89.06% AI-written)
 
-🔤 96,784,461 Input Tokens, 337,377 Output Tokens
+🔤 154,484,771 Input Tokens, 387,859 Output Tokens
 
-💵 $197.11 Estimated AI Cost This Week
+💵 $313.02 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 164 AI Prompts
+🧠 9 AI Sessions, 188 AI Prompts
 
-Sonnet                   1,604 lines         █████████████████████████   100.00 % 
+Sonnet                   1,843 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.79% of written lines came from AI
-📄 Detailed Prompter — average 900 characters per prompt
-🔁 Iterative Prompter — average 23 prompts per session
-🚀 High AI Trust — 25.01% of changed lines were hand-edited
+🤖 AI-Driven — 89.06% of written lines came from AI
+📚 Verbose Prompter — average 2,331 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🚀 High AI Trust — 22.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,5 +92,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2026 19:00:46 UTC
+ Last Updated on 16/08/2026 18:59:11 UTC
 <!--END_SECTION:waka-->
