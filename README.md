@@ -16,7 +16,70 @@ Get in touch with me:
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.13%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.14%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1171 commits        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+🌆 Daytime                1654 commits        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+🌃 Evening                2378 commits        ██████████░░░░░░░░░░░░░░░   38.54 % 
+🌙 Night                  968 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   921 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Tuesday                  881 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Wednesday                938 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Thursday                 1641 commits        ███████░░░░░░░░░░░░░░░░░░   26.59 % 
+Friday                   732 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Saturday                 670 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Sunday                   388 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Rome
+
+💬 Programming Languages: 
+PHP                      15 hrs 3 mins       ██████████████████░░░░░░░   70.40 % 
+Other                    4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Markdown                 1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+
+🔥 Editors: 
+Claude Code              12 hrs 1 min        ██████████████░░░░░░░░░░░   56.25 % 
+VS Code                  7 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   35.95 % 
+Google Calendar          1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 13 hrs 23 mins (62.6%)
+
+✍️ 854 lines written by AI, 61 lines written by hand (93.33% AI-written)
+
+🔤 76,433,454 Input Tokens, 272,067 Output Tokens
+
+💵 $250.23 Estimated AI Cost This Week
+
+🧠 13 AI Sessions, 140 AI Prompts
+
+Sonnet                   737 lines           ███████████████████░░░░░░   76.85 % 
+Opus                     222 lines           ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 93.33% of written lines came from AI
+📚 Verbose Prompter — average 2,206 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 10.21% of changed lines were hand-edited
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -31,5 +94,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 19:01:40 UTC
+ Last Updated on 24/08/2026 19:16:33 UTC
 <!--END_SECTION:waka-->
