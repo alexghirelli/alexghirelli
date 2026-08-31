@@ -45,22 +45,22 @@ Sunday                   388 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-PHP                      8 hrs 46 mins       █████████████░░░░░░░░░░░░   52.11 % 
-Other                    2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-JavaScript               2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-TypeScript               1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+PHP                      8 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   38.42 % 
+Other                    8 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.18 % 
+JavaScript               2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+TypeScript               1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 39 mins       █████████████░░░░░░░░░░░░   51.41 % 
-Claude Code              7 hrs 20 mins       ███████████░░░░░░░░░░░░░░   43.64 % 
-Google Calendar          50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+VS Code                  8 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   37.90 % 
+Claude Code              7 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.17 % 
+Google Calendar          6 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 15 mins (60.92%)
+⏱ AI Coding Time: 10 hrs 15 mins (44.91%)
 
 ✍️ 559 lines written by AI, 315 lines written by hand (63.96% AI-written)
 
@@ -93,5 +93,5 @@ Makefile                 1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 21:24:26 UTC
+ Last Updated on 31/08/2026 23:06:06 UTC
 <!--END_SECTION:waka-->
