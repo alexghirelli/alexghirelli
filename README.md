@@ -10,32 +10,32 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C559%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C560%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-116%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.53%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.57%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1243 commits        █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-🌆 Daytime                1788 commits        ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-🌃 Evening                2548 commits        ██████████░░░░░░░░░░░░░░░   38.33 % 
-🌙 Night                  1068 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+🌞 Morning                1246 commits        █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+🌆 Daytime                1808 commits        ███████░░░░░░░░░░░░░░░░░░   27.00 % 
+🌃 Evening                2564 commits        ██████████░░░░░░░░░░░░░░░   38.29 % 
+🌙 Night                  1078 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   965 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Tuesday                  1055 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Wednesday                1023 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Thursday                 1657 commits        ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-Friday                   844 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Saturday                 698 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-Sunday                   405 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Monday                   966 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Tuesday                  1075 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Wednesday                1033 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Thursday                 1664 commits        ██████░░░░░░░░░░░░░░░░░░░   24.85 % 
+Friday                   855 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Saturday                 698 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Sunday                   405 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 ```
 
 
@@ -45,55 +45,55 @@ Sunday                   405 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-Markdown                 2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-PHP                      2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-JSON                     1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Bash                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Other                    3 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Markdown                 2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+PHP                      2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+JSON                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Bash                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 3 mins        ████████████████░░░░░░░░░   64.13 % 
-VS Code                  2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Google Calendar          1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Claude Code              9 hrs 23 mins       █████████████████░░░░░░░░   67.84 % 
+VS Code                  2 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
+Google Calendar          1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 7 mins (72.64%)
+⏱ AI Coding Time: 10 hrs 27 mins (75.56%)
 
-✍️ 5,077 lines written by AI, 302 lines written by hand (94.39% AI-written)
+✍️ 6,771 lines written by AI, 302 lines written by hand (95.73% AI-written)
 
-🔤 2,839,648 Input Tokens, 581,111 Output Tokens
+🔤 2,943,115 Input Tokens, 870,353 Output Tokens
 
-💵 $40.58 Estimated AI Cost This Week
+💵 $52.34 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 128 AI Prompts
+🧠 25 AI Sessions, 131 AI Prompts
 
-Haiku                    4,311 lines         █████████████████████░░░░   84.80 % 
-Opus                     773 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
+Haiku                    4,311 lines         ████████████████░░░░░░░░░   63.66 % 
+Opus                     2,461 lines         █████████░░░░░░░░░░░░░░░░   36.34 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.39% of written lines came from AI
-📄 Detailed Prompter — average 1,354 characters per prompt
+🤖 AI-Driven — 95.73% of written lines came from AI
+📄 Detailed Prompter — average 1,249 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 6.9% of changed lines were hand-edited
+🚀 High AI Trust — 5.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
 JavaScript               21 repos            █████████░░░░░░░░░░░░░░░░   35.00 % 
-TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+TypeScript               15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 PHP                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Astro                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Makefile                 1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
 
 
 
- Last Updated on 13/10/2026 01:02:31 UTC
+ Last Updated on 13/10/2026 23:06:42 UTC
 <!--END_SECTION:waka-->
