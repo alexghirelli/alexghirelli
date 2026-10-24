@@ -10,11 +10,11 @@ Get in touch with me:
 [![alex@1gh.dev](https://img.shields.io/static/v1?label=alex@1gh.dev&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:alex@1gh.dev)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C590%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C593%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2016%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20.95%20million%20lines%20of%20code-blue?style=flat)
 
@@ -45,39 +45,39 @@ Sunday                   439 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Rome
 
 💬 Programming Languages: 
-Other                    15 hrs 1 min        ██████████████░░░░░░░░░░░   54.29 % 
-PHP                      5 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
-Markdown                 2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-JSON                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Diff                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Other                    11 hrs 27 mins      ████████████░░░░░░░░░░░░░   49.05 % 
+Markdown                 3 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+PHP                      3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+JSON                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Diff                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-Claude Code              11 hrs 44 mins      ███████████░░░░░░░░░░░░░░   42.46 % 
-Google Calendar          11 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   41.98 % 
-VS Code                  4 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Claude Code              12 hrs 58 mins      ██████████████░░░░░░░░░░░   55.54 % 
+Google Calendar          8 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   38.14 % 
+VS Code                  1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 4 mins (43.66%)
+⏱ AI Coding Time: 13 hrs 18 mins (57.0%)
 
-✍️ 678 lines written by AI, 54 lines written by hand (92.62% AI-written)
+✍️ 3,518 lines written by AI, 59 lines written by hand (98.35% AI-written)
 
-🔤 3,418,085 Input Tokens, 629,910 Output Tokens
+🔤 3,134,033 Input Tokens, 1,017,600 Output Tokens
 
-💵 $50.15 Estimated AI Cost This Week
+💵 $81.08 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 182 AI Prompts
+🧠 20 AI Sessions, 227 AI Prompts
 
-Opus                     729 lines           █████████████████████████   100.00 % 
+Opus                     3,559 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.62% of written lines came from AI
-📄 Detailed Prompter — average 749 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 12.27% of changed lines were hand-edited
+🤖 AI-Driven — 98.35% of written lines came from AI
+📄 Detailed Prompter — average 929 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 2.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,5 +93,5 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 21:48:09 UTC
+ Last Updated on 24/10/2026 21:15:27 UTC
 <!--END_SECTION:waka-->
